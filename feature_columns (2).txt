@@ -1,0 +1,16 @@
+rsi_14
+macd
+macd_signal
+macd_hist
+bb_pct_b
+atr_14
+stoch_k
+stoch_d
+return_1d
+return_5d
+volatility_5d
+volatility_20d
+volume_ratio
+prev_gap_pct
+close_to_high
+close_to_low
